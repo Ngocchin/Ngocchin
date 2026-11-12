@@ -1,58 +1,164 @@
-# 💫 About
-<div id="header" align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649783594396/cb3UiM2hX.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" width="800vh"/>
-</div>
 
-# 🌐 Socials
-<div align="center" id="badges">
-  <a target="_blank" href="[https://www.facebook.com/BlackHorse.404](https://www.facebook.com/ngwn.chin)">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>  
-</div>
+<div align="center">
 
-# 💻 Technology
-<br><br>
-<div align="center"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" **alt="CSharp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" **alt="Spring" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" **alt=".NET" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" **alt="Boostrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" **alt="JQuery" width="40" height="40"/> 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=210&section=header&text=NGOC%20TRINH%20NGUYEN&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Software%20Tester&descAlignY=60&descSize=19" width="100%" />
 
-# 📊 GitHub Stats
-<br><br>
-<div align="center"> 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngocchin&show_icons=true&theme=radical)
+### Quality is not an act, it's a habit.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocchin&layout=donut)](https://github.com/Ngocchin/AboutChin.git)
+**QA Engineer | Software Tester | 2+ Years of Experience**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ngocchin&style=flat-square&color=2563eb)
+![Focus](https://img.shields.io/badge/Focus-Software%20Quality-2563eb?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Vietnam-0ea5e9?style=flat-square)
 
 </div>
 
-## 🏆 GitHub Trophies
-<br><br>
-<div align="center"> 
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ngocchin)](https://github.com/Ngocchin/AboutChin.git)
-
-</div>
-
-## ✍️ Random Dev Quote
-<br><br>
-<div align="center"> 
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Ngocchin/AboutChin.git)
-
-</div>
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AboutChin&icon=5&color=4)](https://visitcount.itsvg.in)
+## 👩‍💻 About Me
+
+Hi, I'm **Ngoc Trinh Nguyen**, a Software QA Tester based in Vietnam.
+
+I have **2+ years of hands-on experience** in software quality assurance, focusing on Android applications, Web platforms, CMS systems, and REST APIs.
+
+My work involves analyzing requirements, designing test scenarios, executing test cases, identifying defects, and collaborating with development teams to deliver reliable software.
+
+- 🔍 **Specialization:** Manual Testing & Quality Assurance
+- 📱 **Platforms:** Android, Web, CMS
+- 🔗 **API Testing:** REST API, Postman
+- 🧪 **Testing:** Functional, Integration, Regression, Exploratory
+- 📝 **Documentation:** Test Plans, Test Cases, Checklists, Bug Reports
+- 🎯 **Goal:** Improve software quality and user experience
+- 🌱 **Currently Exploring:** Test Automation & QA Engineering Practices
+
+---
+
+## 🧪 QA Expertise
+
+| Area | Skills |
+|---|---|
+| Test Analysis | Requirement Analysis, Risk Assessment |
+| Test Design | Test Scenarios, Test Cases, Checklists |
+| Functional QA | Functional, Smoke, Sanity Testing |
+| Integration | API & End-to-End Workflow Validation |
+| Regression | Regression Testing, Release Verification |
+| Exploratory | Exploratory Testing, Edge Case Analysis |
+| Mobile QA | Android Testing, Real Devices, ADB |
+| Web QA | Responsive & Cross-Browser Testing |
+| Defect Management | Bug Reporting, Reproduction, Retesting |
+| Documentation | Test Plans, Execution Reports, QA Notes |
+
+---
+
+## 🛠️ Tools & Technologies
+
+### QA & Testing
+
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ADB-34495E?style=for-the-badge"/>
+</p>
+
+### Programming & Web Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,git,github,vscode,visualstudio,windows&perline=5"/>
+</p>
+
+### Additional Technical Knowledge
+
+`SQL` · `C#` · `.NET` · `Bootstrap` · `jQuery`
+
+---
+
+## 🔄 My QA Workflow
+
+```text
+       REQUIREMENT ANALYSIS
+                |
+                v
+        TEST PLANNING
+                |
+                v
+       TEST CASE DESIGN
+                |
+                v
+        TEST EXECUTION
+                |
+                v
+      DEFECT INVESTIGATION
+                |
+                v
+       BUG REPORT & RETEST
+                |
+                v
+       REGRESSION TESTING
+                |
+                v
+       RELEASE VALIDATION
+```
+
+---
+
+## 💼 Professional Experience
+
+### QA / Software Tester
+**Vua Tho Technology Co., Ltd.**
+
+`July 2024 - Present`
+
+- Analyze business requirements and define test coverage.
+- Design and maintain test scenarios, test cases, and checklists.
+- Perform manual testing across Android, Web, CMS, and APIs.
+- Validate customer, worker, driver, and administrative workflows.
+- Investigate API behavior using Postman.
+- Debug Android application issues using ADB.
+- Execute regression testing and verify bug fixes.
+- Collaborate with developers to investigate and resolve defects.
+- Support release validation and production hotfix verification.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ngocchin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocchin&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ngocchin&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.facebook.com/ngwn.chin">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ngocchin">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Testing shows the presence, not the absence of bugs."
+
+*Building better software, one test case at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=100&section=footer" width="100%"/>
+
+</div>
