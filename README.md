@@ -123,15 +123,30 @@ My work involves analyzing requirements, designing test scenarios, executing tes
 
 ---
 
-## 📊 GitHub Analytics
+
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ngocchin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Ngocchin&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocchin&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ngocchin&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ngocchin&theme=tokyonight&hide_border=true" width="70%"/>
+  <br/>
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ngocchin&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Streak"
+  />
 
 </div>
 
